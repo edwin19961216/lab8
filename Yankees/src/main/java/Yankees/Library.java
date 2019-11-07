@@ -6,10 +6,8 @@ package Yankees;
 public class Library {
 	
 	public static void main(String arg[]) {
-		int x=6;
+		int x=7;
 		System.out.println("new HIHIHIHIHIHHII");
-		System.out.println("new2 HIHIHIHIHIHHII");
-		
 	}
     public boolean someLibraryMethod() {
         return true;
