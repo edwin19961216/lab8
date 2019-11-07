@@ -6,6 +6,7 @@ package Yankees;
 public class Library {
 	
 	public static void main(String arg[]) {
+		int x=6;
 		System.out.println("new HIHIHIHIHIHHII");
 		System.out.println("new2 HIHIHIHIHIHHII");
 		
