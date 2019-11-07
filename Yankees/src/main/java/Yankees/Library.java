@@ -6,7 +6,7 @@ package Yankees;
 public class Library {
 	
 	public static void main(String arg[]) {
-		System.out.println("HIHIHIHIHIHHII");
+		System.out.println("new HIHIHIHIHIHHII");
 	}
     public boolean someLibraryMethod() {
         return true;
